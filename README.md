@@ -1,4 +1,4 @@
-# cemlib
+# cem-lib
 [CEM ICs](http://www.sdiy.info/w/Curtis_Electromusic_Specialties) library for Cadsoft Eagle
 
 * 3310 VCEG

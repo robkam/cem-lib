@@ -1,5 +1,5 @@
 # cem.lbr
-[CEM ICs](http://www.sdiy.info/w/Curtis_Electromusic_Specialties) library for Cadsoft Eagle
+[CEM ICs](http://www.sdiy.info/w/Curtis_Electromusic_Specialties) library for Cadsoft Eagle, by Rob Kam
 
 * 3310 VCEG
 * 3320 VCF

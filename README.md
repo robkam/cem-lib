@@ -5,3 +5,4 @@
 * 3330 dual VCA 
 * 3340 VCO
 
+More info at [SDIY wiki](http://www.sdiy.info/w/OnChip_Systems)
